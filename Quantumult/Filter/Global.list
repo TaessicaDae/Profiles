@@ -532,5 +532,4 @@ DOMAIN-SUFFIX,metapix.net,PROXY
 DOMAIN-SUFFIX,s3.amazonaws.com,PROXY
 DOMAIN-SUFFIX,zaobao.com.sg,PROXY
 DOMAIN,international-gfe.download.nvidia.com,PROXY
-DOMAIN,ocsp.apple.com,REJECT
 DOMAIN,store-images.s-microsoft.com,PROXY
